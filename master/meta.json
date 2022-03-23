@@ -1,8 +1,0 @@
-{
-  "desc": "High-level and low-level interfaces to python and lua",
-  "license": "MIT",
-  "name": "NimBorg",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/micklat/NimBorg",
-  "version": "master"
-}
