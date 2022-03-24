@@ -1,5 +1,5 @@
 {
-  description = ''High-level and low-level interfaces to python and lua'';
+  description = ''Both low-level and high-level wrappers to interface with foreign languages'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
