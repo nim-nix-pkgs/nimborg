@@ -11,6 +11,7 @@
   inputs.src-NimBorg-master.ref   = "refs/heads/master";
   inputs.src-NimBorg-master.owner = "micklat";
   inputs.src-NimBorg-master.repo  = "NimBorg";
+  inputs.src-NimBorg-master.dir   = "";
   inputs.src-NimBorg-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
